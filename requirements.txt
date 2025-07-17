@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+Jinja2
+weasyprint==54.3
+Pillow
+scikit-learn
+ultralytics
+torch
+beautifulsoup4
